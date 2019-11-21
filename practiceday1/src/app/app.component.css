@@ -1,0 +1,6 @@
+.headertag{
+    text-align: center
+}
+button.mat-menu-item.active{
+    background: gray
+}
